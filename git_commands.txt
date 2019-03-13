@@ -1,0 +1,3 @@
+git config --global user.name "Gopi"
+git config --global user.email "gopinath.palani@accenture.com"
+git config --list
