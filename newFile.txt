@@ -1,3 +1,4 @@
 hello new repository, lading content into new repo using git remote add url
 trying to edit using github
 hey all in newFile 
+hey all in newFile and adding more and more data to file
