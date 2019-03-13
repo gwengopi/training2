@@ -1,3 +1,6 @@
 git config --global user.name "Gopi"
 git config --global user.email "gopinath.palani@accenture.com"
 git config --list
+
+git init - initiates empty repository in current folder
+git clone URL - copies a repo to local in current folder
