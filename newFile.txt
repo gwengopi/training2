@@ -1,8 +1,5 @@
 hello new repository, lading content into new repo using git remote add url
 trying to edit using github
 hey all in newFile 
-<<<<<<< HEAD
 hey all in newFile and adding more and more data to file
 new data new data
-=======
->>>>>>> parent of 4e795be... Added more data to newFile
